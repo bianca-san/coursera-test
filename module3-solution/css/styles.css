@@ -1,0 +1,38 @@
+#header-nav {
+    background-color: #0d9ca4;
+    border-radius: 0;
+    border: 0;
+}
+
+#header_txt_bianca {
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: azure;   
+}
+
+.navbar-toggle {
+    background-color: azure;
+}
+
+.nav-elements_bianca {
+    font-family: 'Nunito', sans-serif; 
+    color: azure; 
+    font-weight: bold; 
+}
+
+.h1_bianca {
+    font-family: 'Nunito', sans-serif;
+}
+
+.text_bianca {
+    border: 1px solid black ;
+    background-color: #e6e6e6;
+    padding: 0px 15px 10px 15px; 
+    font-family: 'Nunito', sans-serif;
+    color: #58595b;
+  }
+
+.border_bianca {
+    padding: 10px 35px 10px 35px;
+}
